@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="question_australia">Canberra là thủ đô của nước Australia.</string>
+    <string name="question_oceans">Biển Thái Bình Dương có diện tích lớn hơn biển Đại Tây Dương.</string>
+    <string name="question_mideast">Kênh đào Suez kết nối biển Đỏ và Ấn Độ Dương với nhau.</string>
+    <string name="question_africa">Đầu nguồn của sông Nile là ở Ai Cập.</string>
+    <string name="question_americas">Sông Amazon là con sông dài nhất ở châu Mỹ.</string>
+    <string name="question_asia">Hồ Baikal là hồ nước ngọt lâu đời nhất và sâu nhất thế giới.</string>
+    <string name="true_button">Đúng</string>
+    <string name="false_button">Sai</string>
+    <string name="next_button">Tiếp theo</string>
+    <string name="correct_toast">Đúng!</string>
+    <string name="incorrect_toast">Sai!</string>
+
+    <string name="warning_text">Bạn chắc chắn muốn thực hiện hành động này?</string>
+    <string name="show_answer_button">Xem đáp án</string>
+    <string name="cheat_button">Gian lận!</string>
+    <string name="judgment_toast">Gian lận là hành động sai trái.</string>
+
+    <string name="about_button">Thông tin</string>
+</resources>
